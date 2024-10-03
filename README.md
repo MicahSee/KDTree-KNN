@@ -54,9 +54,9 @@ The KNN-KDTree project provides a robust and efficient implementation of the K-N
     ```
 
 4. **Run a simple test**
-  ```
-  ctest
-  ```
+    ```
+    ctest
+    ```
 
 5. **Run the example**
     ```
