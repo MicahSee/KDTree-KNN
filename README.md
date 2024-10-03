@@ -53,7 +53,12 @@ The KNN-KDTree project provides a robust and efficient implementation of the K-N
     cmake --build .
     ```
 
-3. **Run the example**
+4. **Run a simple test**
+```
+ctest
+```
+
+5. **Run the example**
     ```
     ./KNN_KDTree
     ```
