@@ -1,0 +1,19 @@
+Start testing: Oct 03 11:51 PDT
+----------------------------------------------------------
+1/1 Testing: KNNTest
+1/1 Test: KNNTest
+Command: "/Users/msee/Desktop/Projects/KNN-KDTree/build/test_knn"
+Directory: /Users/msee/Desktop/Projects/KNN-KDTree/build
+"KNNTest" start time: Oct 03 11:51 PDT
+Output:
+----------------------------------------------------------
+All tests passed successfully!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"KNNTest" end time: Oct 03 11:51 PDT
+"KNNTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 03 11:51 PDT
